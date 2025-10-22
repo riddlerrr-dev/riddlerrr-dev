@@ -15,7 +15,7 @@ Code, caffeine, and chaos — in roughly that order. ☕⚙️
 ---
 
 ### 🧰 Tech I mess with
-`Python` · `Go` · `Docker` · `PostgreSQL` · `MongoDB` · `Discord API` · `FastAPI` · `1Password CLI` · `Microsoft SQL`
+`Python` · `Go` · `Docker` · `PostgreSQL` · `MongoDB` · `Discord API` · `FastAPI` · `1Password CLI` · `Microsoft SQL`  
 `Playwright` · `TwitchIO` · `Hikari` · `Lightbulb`
 
 ---
